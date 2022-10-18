@@ -1,0 +1,26 @@
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.csproj.AssemblyReference.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.Properties.Resources.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.csproj.GenerateResource.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.Login.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.Registration.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\bin\PRG252_Project.exe.config
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\bin\PRG252_Project.exe
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\bin\PRG252_Project.pdb
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.exe
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.pdb
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Activities\PRG252_Project\obj\Debug\PRG252_Project.Administration_Portal.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\bin\PRG252_Project.exe.config
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\bin\PRG252_Project.exe
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\bin\PRG252_Project.pdb
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.csproj.AssemblyReference.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.Administration_Portal.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.Login.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.Properties.Resources.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.Registration.resources
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.csproj.GenerateResource.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.csproj.CoreCompileInputs.cache
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.exe
+C:\Users\Ntebo\Pictures\Screenshots\2nd Year\PMM251\Desktop\SCHOOL\2nd Year\PRG252\Assignments & Projects\PRG252_Project\obj\Debug\PRG252_Project.pdb
